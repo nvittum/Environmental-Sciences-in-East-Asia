@@ -18,8 +18,8 @@
 \contentsline {subsubsection}{Using Rnw Files}{xi}{section*.15}
 \contentsline {subsubsection}{Creating a floating figure}{xi}{section*.16}
 \contentsline {subsubsection}{Using R to Create Effective Figures}{xi}{section*.18}
-\contentsline {subsection}{\numberline {0.4.5}Using Boxes}{xii}{subsection.0.4.5}
-\contentsline {subsection}{\numberline {0.4.6}minibox X}{xii}{subsection.0.4.6}
+\contentsline {subsection}{\numberline {0.4.5}Using Boxes}{xi}{subsection.0.4.5}
+\contentsline {subsection}{\numberline {0.4.6}minibox X}{xi}{subsection.0.4.6}
 \contentsline {subsection}{\numberline {0.4.7} Cross-References, Citations, and Glossaries}{xii}{subsection.0.4.7}
 \contentsline {subsubsection}{Cross-References}{xii}{section*.20}
 \contentsline {subsubsection}{Bibliography generation}{xii}{section*.21}
@@ -62,11 +62,19 @@
 \contentsline {chapter}{\numberline {5}Nuclear Power and Nuclear Waste}{15}{chapter.5}
 \contentsline {section}{\numberline {5.1}Current and Future Energy Needs}{15}{section.5.1}
 \contentsline {chapter}{\numberline {6}Air Pollution \& Social Justice in Hong Kong}{17}{chapter.6}
-\contentsline {section}{\numberline {6.1}Science of Air Pollution}{17}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Overview of the layers of the atmosphere/atmospheric gases}{17}{subsection.6.1.1}
-\contentsline {section}{\numberline {6.2}Major Sources → Use as geographical overview}{17}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}General common sources of air pollution all over the world}{17}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}East Asian countries/communities and their prominent air pollution sources}{17}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.1}Opening}{18}{section.6.1}
+\contentsline {section}{\numberline {6.2}A Brief Overview of Hong Kong}{18}{section.6.2}
+\contentsline {section}{\numberline {6.3}Hong Kong's History}{18}{section.6.3}
+\contentsline {section}{\numberline {6.4}Air Pollution in Hong Kong}{18}{section.6.4}
+\contentsline {section}{\numberline {6.5}Air Pollution and Human Health}{18}{section.6.5}
+\contentsline {section}{\numberline {6.6}Population Density, Income Inequality, and Housing}{18}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}Income Inequality and Zoning Laws}{18}{subsection.6.6.1}
+\contentsline {subsection}{\numberline {6.6.2}Public Housing}{18}{subsection.6.6.2}
+\contentsline {subsection}{\numberline {6.6.3}Economic Mobility}{18}{subsection.6.6.3}
+\contentsline {section}{\numberline {6.7}Indoor Air Pollution}{18}{section.6.7}
+\contentsline {section}{\numberline {6.8}Open Spaces and Other Patterns of Environmental Inequity}{18}{section.6.8}
+\contentsline {section}{\numberline {6.9}Environmental Activism in Hong Kong}{18}{section.6.9}
+\contentsline {section}{\numberline {6.10}Beyond Hong Kong}{18}{section.6.10}
 \contentsline {chapter}{\numberline {7}Flood Pulse System in East Asia}{19}{chapter.7}
 \contentsline {section}{\numberline {7.1}Introduction}{19}{section.7.1}
 \contentsline {chapter}{\numberline {8}Hydroelectric Dams in East Asia}{21}{chapter.8}
